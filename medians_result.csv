@@ -1,0 +1,1066 @@
+experiment,fishID,half,code,prePost,largeMalePosition,fishName,treatment,totalTime,number_transits
+mc,fid1,p1,center,post,none,barbie,LL.csv,24.261999999999986,16
+mc,fid1,p1,center,pre,none,barbie,LL.csv,9.497999999999992,29
+mc,fid1,p1,left screen,post,none,barbie,LL.csv,1.331000000000003,19
+mc,fid1,p1,left screen,pre,none,barbie,LL.csv,167.87,29
+mc,fid1,p1,left side,post,none,barbie,LL.csv,24.58699999999999,16
+mc,fid1,p1,left side,pre,none,barbie,LL.csv,17.447000000000006,29
+mc,fid1,p1,plant,post,none,barbie,LL.csv,63.03100000000002,16
+mc,fid1,p1,plant,pre,none,barbie,LL.csv,39.004000000000005,29
+mc,fid1,p1,right screen,post,none,barbie,LL.csv,169.56400000000002,16
+mc,fid1,p1,right screen,pre,none,barbie,LL.csv,48.047999999999966,29
+mc,fid1,p1,right side,post,none,barbie,LL.csv,17.742999999999967,16
+mc,fid1,p1,right side,pre,none,barbie,LL.csv,16.008000000000052,29
+mc,fid1,p2,center,pre,left,barbie,LL.csv,22.236999999999995,37
+mc,fid1,p2,left screen,pre,left,barbie,LL.csv,206.71400000000003,37
+mc,fid1,p2,left side,pre,left,barbie,LL.csv,20.024999999999935,37
+mc,fid1,p2,plant,pre,left,barbie,LL.csv,0.5339999999999918,38
+mc,fid1,p2,right screen,post,right,barbie,LL.csv,291.14599999999996,13
+mc,fid1,p2,right screen,pre,left,barbie,LL.csv,21.777000000000044,37
+mc,fid1,p2,right side,post,right,barbie,LL.csv,10.947999999999965,13
+mc,fid1,p2,right side,pre,left,barbie,LL.csv,29.33400000000003,37
+mc,fid1,p3,center,post,left,barbie,LL.csv,7.473000000000013,42
+mc,fid1,p3,center,pre,right,barbie,LL.csv,19.646000000000072,23
+mc,fid1,p3,left screen,post,left,barbie,LL.csv,8.804000000000002,42
+mc,fid1,p3,left side,post,left,barbie,LL.csv,20.29099999999997,42
+mc,fid1,p3,left side,pre,right,barbie,LL.csv,13.303999999999974,23
+mc,fid1,p3,plant,post,left,barbie,LL.csv,9.88500000000002,42
+mc,fid1,p3,right screen,post,left,barbie,LL.csv,207.02199999999988,42
+mc,fid1,p3,right screen,pre,right,barbie,LL.csv,242.815,23
+mc,fid1,p3,right side,post,left,barbie,LL.csv,44.88000000000004,42
+mc,fid1,p3,right side,pre,right,barbie,LL.csv,21.940000000000026,23
+mc,fid10,p1,center,post,none,alyssa,INT.csv,22.420000000000027,53
+mc,fid10,p1,center,pre,none,alyssa,INT.csv,6.941000000000002,15.5
+mc,fid10,p1,left screen,post,none,alyssa,INT.csv,144.677,53
+mc,fid10,p1,left screen,pre,none,alyssa,INT.csv,4.135999999999999,15.5
+mc,fid10,p1,left side,post,none,alyssa,INT.csv,37.372999999999976,53
+mc,fid10,p1,left side,pre,none,alyssa,INT.csv,8.41,15.5
+mc,fid10,p1,plant,post,none,alyssa,INT.csv,29.628,53
+mc,fid10,p1,plant,pre,none,alyssa,INT.csv,4.539999999999999,15.5
+mc,fid10,p1,right screen,post,none,alyssa,INT.csv,38.439,53
+mc,fid10,p1,right screen,pre,none,alyssa,INT.csv,257.022,15.5
+mc,fid10,p1,right side,post,none,alyssa,INT.csv,27.201000000000022,53
+mc,fid10,p1,right side,pre,none,alyssa,INT.csv,17.658499999999993,15.5
+mc,fid10,p2,center,post,right,alyssa,INT.csv,0.8640000000000327,28
+mc,fid10,p2,left screen,post,right,alyssa,INT.csv,3.052000000000021,17
+mc,fid10,p2,left side,post,right,alyssa,INT.csv,1.6019999999999754,17
+mc,fid10,p2,plant,post,right,alyssa,INT.csv,1.3340000000000032,17
+mc,fid10,p2,right screen,post,right,alyssa,INT.csv,271.971,17
+mc,fid10,p2,right screen,pre,right,alyssa,INT.csv,298.4395,2.5
+mc,fid10,p2,right side,post,right,alyssa,INT.csv,19.956999999999933,17
+mc,fid10,p2,right side,pre,right,alyssa,INT.csv,0.9349999999999952,4
+mc,fid10,p3,right screen,post,left,alyssa,INT.csv,296.119,4
+mc,fid10,p3,right screen,pre,left,alyssa,INT.csv,291.6345,3
+mc,fid10,p3,right side,post,left,alyssa,INT.csv,2.135000000000005,5
+mc,fid10,p3,right side,pre,left,alyssa,INT.csv,9.076000000000022,3
+mc,fid11,p1,center,post,none,bernice,LS.csv,12.542000000000035,61
+mc,fid11,p1,center,pre,none,bernice,LS.csv,30.10249999999997,54.5
+mc,fid11,p1,left screen,post,none,bernice,LS.csv,42.71299999999997,61
+mc,fid11,p1,left screen,pre,none,bernice,LS.csv,137.85550000000003,54.5
+mc,fid11,p1,left side,post,none,bernice,LS.csv,32.89600000000004,61
+mc,fid11,p1,left side,pre,none,bernice,LS.csv,58.402000000000015,54.5
+mc,fid11,p1,plant,post,none,bernice,LS.csv,30.661999999999995,61
+mc,fid11,p1,plant,pre,none,bernice,LS.csv,19.84650000000002,54.5
+mc,fid11,p1,right screen,post,none,bernice,LS.csv,146.035,61
+mc,fid11,p1,right screen,pre,none,bernice,LS.csv,18.251999999999985,54.5
+mc,fid11,p1,right side,post,none,bernice,LS.csv,32.03399999999998,61
+mc,fid11,p1,right side,pre,none,bernice,LS.csv,35.086000000000006,54.5
+mc,fid11,p2,center,post,right,bernice,LS.csv,3.3420000000000414,12
+mc,fid11,p2,center,pre,left,bernice,LS.csv,10.67750000000002,37.5
+mc,fid11,p2,left screen,post,right,bernice,LS.csv,1.7749999999999773,12
+mc,fid11,p2,left screen,pre,left,bernice,LS.csv,24.955500000000008,37.5
+mc,fid11,p2,left side,post,right,bernice,LS.csv,1.6340000000000146,12
+mc,fid11,p2,left side,pre,left,bernice,LS.csv,22.82449999999999,37.5
+mc,fid11,p2,plant,pre,left,bernice,LS.csv,10.279500000000002,37.5
+mc,fid11,p2,right screen,post,right,bernice,LS.csv,274.71299999999997,12
+mc,fid11,p2,right screen,pre,left,bernice,LS.csv,201.875,37.5
+mc,fid11,p2,right side,post,right,bernice,LS.csv,18.41700000000003,12
+mc,fid11,p2,right side,pre,left,bernice,LS.csv,29.624000000000024,37.5
+mc,fid11,p3,center,post,left,bernice,LS.csv,10.67799999999999,35
+mc,fid11,p3,left screen,post,left,bernice,LS.csv,56.592000000000006,35
+mc,fid11,p3,left side,post,left,bernice,LS.csv,20.010999999999996,35
+mc,fid11,p3,plant,post,left,bernice,LS.csv,8.144999999999998,35
+mc,fid11,p3,right screen,post,left,bernice,LS.csv,183.735,35
+mc,fid11,p3,right screen,pre,right,bernice,LS.csv,297.3165,7
+mc,fid11,p3,right side,post,left,bernice,LS.csv,18.017000000000017,35
+mc,fid11,p3,right side,pre,right,bernice,LS.csv,3.996999999999945,11
+mc,fid12,p1,center,post,none,andrea,SS.csv,30.69400000000002,24
+mc,fid12,p1,left screen,post,none,andrea,SS.csv,6.27300000000001,24
+mc,fid12,p1,left side,post,none,andrea,SS.csv,23.724999999999966,24
+mc,fid12,p1,plant,post,none,andrea,SS.csv,195.52599999999998,24
+mc,fid12,p1,right screen,post,none,andrea,SS.csv,10.942999999999955,24
+mc,fid12,p1,right side,post,none,andrea,SS.csv,33.898999999999994,24
+mc,fid12,p2,center,post,right,andrea,SS.csv,16.014999999999993,18
+mc,fid12,p2,left screen,post,right,andrea,SS.csv,18.522,18
+mc,fid12,p2,left side,post,right,andrea,SS.csv,47.346,18
+mc,fid12,p2,plant,post,right,andrea,SS.csv,202.81599999999997,18
+mc,fid12,p2,right screen,post,right,andrea,SS.csv,3.4720000000000084,18
+mc,fid12,p2,right side,post,right,andrea,SS.csv,11.379000000000019,18
+mc,fid12,p3,center,post,left,andrea,SS.csv,5.874000000000015,19
+mc,fid12,p3,left screen,post,left,andrea,SS.csv,257.99199999999996,19
+mc,fid12,p3,left side,post,left,andrea,SS.csv,18.046999999999993,19
+mc,fid12,p3,plant,post,left,andrea,SS.csv,17.352,19
+mc,fid13,p1,center,post,none,ava,LL.csv,22.57800000000001,76
+mc,fid13,p1,center,pre,none,ava,LL.csv,24.943500000000004,76
+mc,fid13,p1,left screen,post,none,ava,LL.csv,79.10499999999999,76
+mc,fid13,p1,left screen,pre,none,ava,LL.csv,70.30250000000004,76
+mc,fid13,p1,left side,post,none,ava,LL.csv,50.14999999999998,76
+mc,fid13,p1,left side,pre,none,ava,LL.csv,35.90299999999992,76
+mc,fid13,p1,plant,post,none,ava,LL.csv,39.36099999999998,76
+mc,fid13,p1,plant,pre,none,ava,LL.csv,5.719999999999992,76
+mc,fid13,p1,right screen,post,none,ava,LL.csv,61.934000000000005,76
+mc,fid13,p1,right screen,pre,none,ava,LL.csv,120.15199999999997,76
+mc,fid13,p1,right side,post,none,ava,LL.csv,45.21699999999997,76
+mc,fid13,p1,right side,pre,none,ava,LL.csv,40.173499999999976,76
+mc,fid13,p2,center,post,right,ava,LL.csv,35.505000000000024,69
+mc,fid13,p2,center,pre,left,ava,LL.csv,24.176000000000002,93.5
+mc,fid13,p2,left screen,post,right,ava,LL.csv,94.21200000000002,69
+mc,fid13,p2,left screen,pre,left,ava,LL.csv,47.01099999999999,93.5
+mc,fid13,p2,left side,post,right,ava,LL.csv,54.95899999999998,69
+mc,fid13,p2,left side,pre,left,ava,LL.csv,34.5315,93.5
+mc,fid13,p2,plant,post,right,ava,LL.csv,8.007999999999967,69
+mc,fid13,p2,plant,pre,left,ava,LL.csv,3.8725000000000023,93.5
+mc,fid13,p2,right screen,post,right,ava,LL.csv,58.45499999999998,69
+mc,fid13,p2,right screen,pre,left,ava,LL.csv,142.256,93.5
+mc,fid13,p2,right side,post,right,ava,LL.csv,46.71700000000003,69
+mc,fid13,p2,right side,pre,left,ava,LL.csv,46.929,93.5
+mc,fid13,p3,center,post,left,ava,LL.csv,14.26900000000009,51
+mc,fid13,p3,center,pre,right,ava,LL.csv,12.40500000000001,56
+mc,fid13,p3,left screen,post,left,ava,LL.csv,169.24699999999999,51
+mc,fid13,p3,left screen,pre,right,ava,LL.csv,107.834,56
+mc,fid13,p3,left side,post,left,ava,LL.csv,49.641000000000055,51
+mc,fid13,p3,left side,pre,right,ava,LL.csv,40.299000000000014,56
+mc,fid13,p3,plant,post,left,ava,LL.csv,22.460999999999984,51
+mc,fid13,p3,plant,pre,right,ava,LL.csv,1.068000000000012,61
+mc,fid13,p3,right screen,post,left,ava,LL.csv,9.351999999999975,51
+mc,fid13,p3,right screen,pre,right,ava,LL.csv,114.82399999999996,56
+mc,fid13,p3,right side,post,left,ava,LL.csv,36.43300000000002,51
+mc,fid13,p3,right side,pre,right,ava,LL.csv,21.289499999999983,56
+mc,fid14,p1,center,post,none,delfina,LS.csv,1.868000000000002,28
+mc,fid14,p1,center,pre,none,delfina,LS.csv,29.370999999999995,84.5
+mc,fid14,p1,left screen,post,none,delfina,LS.csv,49.25,28
+mc,fid14,p1,left screen,pre,none,delfina,LS.csv,52.85799999999999,84.5
+mc,fid14,p1,left side,post,none,delfina,LS.csv,6.412000000000001,28
+mc,fid14,p1,left side,pre,none,delfina,LS.csv,43.77750000000003,84.5
+mc,fid14,p1,plant,post,none,delfina,LS.csv,2.069499999999998,25
+mc,fid14,p1,plant,pre,none,delfina,LS.csv,1.3329999999999984,84
+mc,fid14,p1,right screen,post,none,delfina,LS.csv,227.72899999999998,28
+mc,fid14,p1,right screen,pre,none,delfina,LS.csv,94.28800000000004,84.5
+mc,fid14,p1,right side,post,none,delfina,LS.csv,13.07400000000002,28
+mc,fid14,p1,right side,pre,none,delfina,LS.csv,76.56400000000001,84.5
+mc,fid14,p2,center,post,left,delfina,LS.csv,1.4664999999999964,8
+mc,fid14,p2,center,pre,right,delfina,LS.csv,5.071499999999997,20
+mc,fid14,p2,left screen,post,left,delfina,LS.csv,49.347999999999985,8
+mc,fid14,p2,left screen,pre,right,delfina,LS.csv,4.0045,20
+mc,fid14,p2,left side,post,left,delfina,LS.csv,1.875,8
+mc,fid14,p2,left side,pre,right,delfina,LS.csv,9.8765,20
+mc,fid14,p2,plant,post,left,delfina,LS.csv,1.2005000000000052,8
+mc,fid14,p2,right screen,post,left,delfina,LS.csv,245.31199999999998,8
+mc,fid14,p2,right screen,pre,right,delfina,LS.csv,251.4135,20
+mc,fid14,p2,right side,post,left,delfina,LS.csv,1.3359999999999843,8
+mc,fid14,p2,right side,pre,right,delfina,LS.csv,28.913500000000003,20
+mc,fid14,p3,center,post,right,delfina,LS.csv,16.546999999999947,77
+mc,fid14,p3,left screen,post,right,delfina,LS.csv,77.27299999999998,77
+mc,fid14,p3,left side,post,right,delfina,LS.csv,27.13499999999989,77
+mc,fid14,p3,plant,post,right,delfina,LS.csv,7.216999999999999,77
+mc,fid14,p3,right screen,post,right,delfina,LS.csv,135.20000000000002,77
+mc,fid14,p3,right screen,pre,left,delfina,LS.csv,295.068,5
+mc,fid14,p3,right side,post,right,delfina,LS.csv,36.56200000000008,77
+mc,fid14,p3,right side,pre,left,delfina,LS.csv,3.7489999999999952,5
+mc,fid15,p1,center,post,none,chloe,INT.csv,8.801000000000005,65
+mc,fid15,p1,center,pre,none,chloe,INT.csv,33.428,51
+mc,fid15,p1,left screen,post,none,chloe,INT.csv,201.572,65
+mc,fid15,p1,left screen,pre,none,chloe,INT.csv,31.829500000000003,51
+mc,fid15,p1,left side,post,none,chloe,INT.csv,24.77900000000003,65
+mc,fid15,p1,left side,pre,none,chloe,INT.csv,37.93899999999998,51
+mc,fid15,p1,plant,pre,none,chloe,INT.csv,62.327499999999986,51
+mc,fid15,p1,right screen,post,none,chloe,INT.csv,47.52700000000001,65
+mc,fid15,p1,right screen,pre,none,chloe,INT.csv,101.28699999999998,51
+mc,fid15,p1,right side,post,none,chloe,INT.csv,15.493999999999993,65
+mc,fid15,p1,right side,pre,none,chloe,INT.csv,32.030499999999996,51
+mc,fid15,p2,center,post,left,chloe,INT.csv,11.741000000000028,65
+mc,fid15,p2,center,pre,right,chloe,INT.csv,5.669999999999973,29
+mc,fid15,p2,left screen,post,left,chloe,INT.csv,44.308,65
+mc,fid15,p2,left screen,pre,right,chloe,INT.csv,5.472000000000008,29
+mc,fid15,p2,left side,post,left,chloe,INT.csv,18.426000000000002,65
+mc,fid15,p2,left side,pre,right,chloe,INT.csv,5.883499999999998,29
+mc,fid15,p2,plant,post,left,chloe,INT.csv,2.4030000000000022,65
+mc,fid15,p2,plant,pre,right,chloe,INT.csv,3.6059999999999945,30
+mc,fid15,p2,right screen,post,left,chloe,INT.csv,189.93800000000005,65
+mc,fid15,p2,right screen,pre,right,chloe,INT.csv,261.9995,29
+mc,fid15,p2,right side,post,left,chloe,INT.csv,31.971999999999934,65
+mc,fid15,p2,right side,pre,right,chloe,INT.csv,15.888500000000002,29
+mc,fid15,p3,center,pre,left,chloe,INT.csv,4.270499999999998,20.5
+mc,fid15,p3,left screen,pre,left,chloe,INT.csv,2.136000000000003,20.5
+mc,fid15,p3,left side,pre,left,chloe,INT.csv,6.540000000000003,20.5
+mc,fid15,p3,right screen,post,right,chloe,INT.csv,284.5439999999999,25
+mc,fid15,p3,right screen,pre,left,chloe,INT.csv,268.8485,20.5
+mc,fid15,p3,right side,post,right,chloe,INT.csv,14.94700000000004,32
+mc,fid15,p3,right side,pre,left,chloe,INT.csv,14.112499999999974,20.5
+mc,fid16,p1,center,post,none,carla,LL.csv,18.250000000000064,46
+mc,fid16,p1,center,pre,none,carla,LL.csv,21.244500000000027,79.5
+mc,fid16,p1,left screen,post,none,carla,LL.csv,8.012000000000008,46
+mc,fid16,p1,left screen,pre,none,carla,LL.csv,41.927499999999974,79.5
+mc,fid16,p1,left side,post,none,carla,LL.csv,27.49499999999998,46
+mc,fid16,p1,left side,pre,none,carla,LL.csv,50.05200000000001,79.5
+mc,fid16,p1,plant,post,none,carla,LL.csv,69.038,46
+mc,fid16,p1,plant,pre,none,carla,LL.csv,20.423999999999985,79.5
+mc,fid16,p1,right screen,post,none,carla,LL.csv,131.89600000000002,46
+mc,fid16,p1,right screen,pre,none,carla,LL.csv,89.24349999999998,79.5
+mc,fid16,p1,right side,post,none,carla,LL.csv,45.377999999999986,46
+mc,fid16,p1,right side,pre,none,carla,LL.csv,73.96249999999999,79.5
+mc,fid16,p2,center,post,left,carla,LL.csv,27.190999999999967,53
+mc,fid16,p2,center,pre,right,carla,LL.csv,7.343999999999999,26
+mc,fid16,p2,left screen,post,left,carla,LL.csv,87.9499999999999,53
+mc,fid16,p2,left screen,pre,right,carla,LL.csv,14.417000000000002,26
+mc,fid16,p2,left side,post,left,carla,LL.csv,63.53400000000006,53
+mc,fid16,p2,left side,pre,right,carla,LL.csv,18.951999999999998,26
+mc,fid16,p2,plant,post,left,carla,LL.csv,25.35899999999998,53
+mc,fid16,p2,right screen,post,left,carla,LL.csv,57.658,53
+mc,fid16,p2,right screen,pre,right,carla,LL.csv,232.442,26
+mc,fid16,p2,right side,post,left,carla,LL.csv,36.56699999999995,53
+mc,fid16,p2,right side,pre,right,carla,LL.csv,24.7055,26
+mc,fid16,p3,center,post,right,carla,LL.csv,9.841999999999999,35
+mc,fid16,p3,center,pre,left,carla,LL.csv,18.665500000000016,43
+mc,fid16,p3,left screen,post,right,carla,LL.csv,235.394,35
+mc,fid16,p3,left screen,pre,left,carla,LL.csv,14.81499999999997,43
+mc,fid16,p3,left side,post,right,carla,LL.csv,53.649,35
+mc,fid16,p3,left side,pre,left,carla,LL.csv,17.25649999999999,43
+mc,fid16,p3,plant,pre,left,carla,LL.csv,6.767000000000005,43
+mc,fid16,p3,right screen,pre,left,carla,LL.csv,202.57249999999996,43
+mc,fid16,p3,right side,pre,left,carla,LL.csv,36.462000000000046,43
+mc,fid17,p1,center,post,none,amanda,INT.csv,30.87000000000002,41
+mc,fid17,p1,center,pre,none,amanda,INT.csv,18.416999999999984,48.5
+mc,fid17,p1,left screen,post,none,amanda,INT.csv,79.81700000000004,41
+mc,fid17,p1,left screen,pre,none,amanda,INT.csv,69.13599999999997,48.5
+mc,fid17,p1,left side,post,none,amanda,INT.csv,34.17399999999999,41
+mc,fid17,p1,left side,pre,none,amanda,INT.csv,34.96900000000004,48.5
+mc,fid17,p1,plant,post,none,amanda,INT.csv,4.803000000000006,41
+mc,fid17,p1,plant,pre,none,amanda,INT.csv,3.068999999999992,45.5
+mc,fid17,p1,right screen,post,none,amanda,INT.csv,106.73499999999994,41
+mc,fid17,p1,right screen,pre,none,amanda,INT.csv,129.1295,48.5
+mc,fid17,p1,right side,post,none,amanda,INT.csv,45.65600000000008,41
+mc,fid17,p1,right side,pre,none,amanda,INT.csv,47.179,48.5
+mc,fid17,p2,center,pre,right,amanda,INT.csv,4.3999999999999995,18
+mc,fid17,p2,left screen,pre,right,amanda,INT.csv,240.93550000000005,18
+mc,fid17,p2,left side,pre,right,amanda,INT.csv,39.90649999999997,18
+mc,fid17,p2,right screen,post,right,amanda,INT.csv,286.394,9
+mc,fid17,p2,right screen,pre,right,amanda,INT.csv,6.539000000000001,18
+mc,fid17,p2,right side,post,right,amanda,INT.csv,11.208000000000027,9
+mc,fid17,p2,right side,pre,right,amanda,INT.csv,4.942500000000001,18
+mc,fid17,p3,center,pre,left,amanda,INT.csv,25.041000000000004,30
+mc,fid17,p3,left screen,pre,left,amanda,INT.csv,21.872500000000002,30
+mc,fid17,p3,left side,pre,left,amanda,INT.csv,36.6545,30
+mc,fid17,p3,plant,pre,left,amanda,INT.csv,3.4060000000000024,30
+mc,fid17,p3,right screen,post,left,amanda,INT.csv,288.7855,11
+mc,fid17,p3,right screen,pre,left,amanda,INT.csv,188.3015,30
+mc,fid17,p3,right side,post,left,amanda,INT.csv,10.809499999999968,11
+mc,fid17,p3,right side,pre,left,amanda,INT.csv,23.086000000000013,30
+mc,fid18,p1,center,post,none,anna,LL.csv,9.946500000000023,40.5
+mc,fid18,p1,center,pre,none,anna,LL.csv,9.300000000000011,57
+mc,fid18,p1,left screen,post,none,anna,LL.csv,13.513000000000003,40.5
+mc,fid18,p1,left screen,pre,none,anna,LL.csv,66.54550000000002,57
+mc,fid18,p1,left side,post,none,anna,LL.csv,22.703500000000012,40.5
+mc,fid18,p1,left side,pre,none,anna,LL.csv,32.81699999999998,57
+mc,fid18,p1,plant,post,none,anna,LL.csv,6.0764999999999905,40.5
+mc,fid18,p1,plant,pre,none,anna,LL.csv,1.0670000000000002,53
+mc,fid18,p1,right screen,post,none,anna,LL.csv,222.84050000000002,40.5
+mc,fid18,p1,right screen,pre,none,anna,LL.csv,162.06699999999998,57
+mc,fid18,p1,right side,post,none,anna,LL.csv,23.5215,40.5
+mc,fid18,p1,right side,pre,none,anna,LL.csv,26.9985,57
+mc,fid18,p2,center,post,right,anna,LL.csv,1.3330000000000126,20.5
+mc,fid18,p2,center,pre,left,anna,LL.csv,17.534499999999973,78
+mc,fid18,p2,left screen,post,right,anna,LL.csv,9.341499999999982,20.5
+mc,fid18,p2,left screen,pre,left,anna,LL.csv,49.46250000000005,78
+mc,fid18,p2,left side,post,right,anna,LL.csv,4.173000000000016,20.5
+mc,fid18,p2,left side,pre,left,anna,LL.csv,22.307499999999962,78
+mc,fid18,p2,plant,post,right,anna,LL.csv,2.269999999999996,20.5
+mc,fid18,p2,plant,pre,left,anna,LL.csv,3.7415000000000163,80.5
+mc,fid18,p2,right screen,post,right,anna,LL.csv,269.9945,20.5
+mc,fid18,p2,right screen,pre,left,anna,LL.csv,177.83049999999997,78
+mc,fid18,p2,right side,post,right,anna,LL.csv,11.98350000000001,20.5
+mc,fid18,p2,right side,pre,left,anna,LL.csv,29.20750000000004,78
+mc,fid18,p3,center,post,left,anna,LL.csv,7.873499999999986,40
+mc,fid18,p3,center,pre,right,anna,LL.csv,25.493999999999986,90
+mc,fid18,p3,left screen,post,left,anna,LL.csv,16.012,40
+mc,fid18,p3,left screen,pre,right,anna,LL.csv,59.78800000000002,90
+mc,fid18,p3,left side,post,left,anna,LL.csv,12.681000000000012,40
+mc,fid18,p3,left side,pre,right,anna,LL.csv,38.943500000000014,90
+mc,fid18,p3,plant,post,left,anna,LL.csv,2.136499999999991,39.5
+mc,fid18,p3,plant,pre,right,anna,LL.csv,0.5379999999999998,89
+mc,fid18,p3,right screen,post,left,anna,LL.csv,241.2055,40
+mc,fid18,p3,right screen,pre,right,anna,LL.csv,129.52649999999994,90
+mc,fid18,p3,right side,post,left,anna,LL.csv,20.896000000000022,40
+mc,fid18,p3,right side,pre,right,anna,LL.csv,46.395999999999994,90
+mc,fid19,p1,center,post,none,allison,FF.csv,25.355499999999992,59
+mc,fid19,p1,center,pre,none,allison,FF.csv,38.08049999999999,82.5
+mc,fid19,p1,left screen,post,none,allison,FF.csv,65.55850000000001,59
+mc,fid19,p1,left screen,pre,none,allison,FF.csv,37.44749999999998,82.5
+mc,fid19,p1,left side,post,none,allison,FF.csv,49.30449999999999,59
+mc,fid19,p1,left side,pre,none,allison,FF.csv,66.3035,82.5
+mc,fid19,p1,plant,post,none,allison,FF.csv,59.12850000000003,59
+mc,fid19,p1,plant,pre,none,allison,FF.csv,60.264499999999984,82.5
+mc,fid19,p1,right screen,post,none,allison,FF.csv,47.951999999999984,59
+mc,fid19,p1,right screen,pre,none,allison,FF.csv,29.060999999999993,82.5
+mc,fid19,p1,right side,post,none,allison,FF.csv,50.58249999999999,59
+mc,fid19,p1,right side,pre,none,allison,FF.csv,68.44150000000003,82.5
+mc,fid19,p2,center,post,left,allison,FF.csv,24.32350000000003,60
+mc,fid19,p2,center,pre,right,allison,FF.csv,27.266999999999967,100.5
+mc,fid19,p2,left screen,post,left,allison,FF.csv,139.56950000000006,60
+mc,fid19,p2,left screen,pre,right,allison,FF.csv,56.797000000000025,100.5
+mc,fid19,p2,left side,post,left,allison,FF.csv,71.52399999999992,60
+mc,fid19,p2,left side,pre,right,allison,FF.csv,59.664500000000004,100.5
+mc,fid19,p2,plant,pre,right,allison,FF.csv,53.02549999999998,100.5
+mc,fid19,p2,right screen,post,left,allison,FF.csv,23.522000000000006,60
+mc,fid19,p2,right screen,pre,right,allison,FF.csv,53.776499999999984,100.5
+mc,fid19,p2,right side,post,left,allison,FF.csv,40.707,60
+mc,fid19,p2,right side,pre,right,allison,FF.csv,49.00900000000004,100.5
+mc,fid19,p3,center,post,right,allison,FF.csv,41.377500000000055,45.5
+mc,fid19,p3,center,pre,left,allison,FF.csv,31.500499999999985,82
+mc,fid19,p3,left screen,post,right,allison,FF.csv,24.553000000000026,45.5
+mc,fid19,p3,left screen,pre,left,allison,FF.csv,40.38799999999999,82
+mc,fid19,p3,left side,post,right,allison,FF.csv,32.882999999999925,45.5
+mc,fid19,p3,left side,pre,left,allison,FF.csv,70.75650000000002,82
+mc,fid19,p3,plant,post,right,allison,FF.csv,58.707499999999996,45.5
+mc,fid19,p3,plant,pre,left,allison,FF.csv,89.348,82
+mc,fid19,p3,right screen,post,right,allison,FF.csv,91.04650000000001,45.5
+mc,fid19,p3,right screen,pre,left,allison,FF.csv,19.022000000000002,82
+mc,fid19,p3,right side,post,right,allison,FF.csv,47.06699999999991,45.5
+mc,fid19,p3,right side,pre,left,allison,FF.csv,46.53999999999999,82
+mc,fid2,p1,center,post,none,daisy,LL.csv,18.685000000000006,80
+mc,fid2,p1,center,pre,none,daisy,LL.csv,12.325999999999988,38
+mc,fid2,p1,left screen,post,none,daisy,LL.csv,29.09699999999999,80
+mc,fid2,p1,left screen,pre,none,daisy,LL.csv,210.932,38
+mc,fid2,p1,left side,post,none,daisy,LL.csv,32.231000000000016,80
+mc,fid2,p1,left side,pre,none,daisy,LL.csv,32.828000000000046,38
+mc,fid2,p1,plant,post,none,daisy,LL.csv,10.81399999999999,80
+mc,fid2,p1,plant,pre,none,daisy,LL.csv,13.986,38
+mc,fid2,p1,right screen,post,none,daisy,LL.csv,163.08800000000002,80
+mc,fid2,p1,right screen,pre,none,daisy,LL.csv,9.347,38
+mc,fid2,p1,right side,post,none,daisy,LL.csv,44.309999999999945,80
+mc,fid2,p1,right side,pre,none,daisy,LL.csv,17.41099999999999,38
+mc,fid2,p2,center,post,left,daisy,LL.csv,4.5390000000000015,55
+mc,fid2,p2,center,pre,right,daisy,LL.csv,11.209000000000032,27
+mc,fid2,p2,left screen,post,left,daisy,LL.csv,10.408000000000001,55
+mc,fid2,p2,left screen,pre,right,daisy,LL.csv,210.708,27
+mc,fid2,p2,left side,post,left,daisy,LL.csv,4.002999999999993,55
+mc,fid2,p2,left side,pre,right,daisy,LL.csv,17.755000000000024,27
+mc,fid2,p2,plant,pre,right,daisy,LL.csv,3.8389999999999986,27
+mc,fid2,p2,right screen,post,left,daisy,LL.csv,236.20300000000006,55
+mc,fid2,p2,right screen,pre,right,daisy,LL.csv,42.97599999999997,27
+mc,fid2,p2,right side,post,left,daisy,LL.csv,43.61999999999993,55
+mc,fid2,p2,right side,pre,right,daisy,LL.csv,12.41300000000004,27
+mc,fid2,p3,center,post,right,daisy,LL.csv,10.410999999999973,65
+mc,fid2,p3,center,pre,left,daisy,LL.csv,6.338000000000051,19
+mc,fid2,p3,left screen,post,right,daisy,LL.csv,103.35499999999999,65
+mc,fid2,p3,left screen,pre,left,daisy,LL.csv,151.29899999999998,19
+mc,fid2,p3,left side,post,right,daisy,LL.csv,27.758000000000013,65
+mc,fid2,p3,left side,pre,left,daisy,LL.csv,20.763000000000062,19
+mc,fid2,p3,plant,post,right,daisy,LL.csv,6.409000000000006,65
+mc,fid2,p3,right screen,post,right,daisy,LL.csv,120.3730000000001,65
+mc,fid2,p3,right screen,pre,left,daisy,LL.csv,116.951,19
+mc,fid2,p3,right side,post,right,daisy,LL.csv,32.03599999999989,65
+mc,fid2,p3,right side,pre,left,daisy,LL.csv,4.802,19
+mc,fid20,p1,center,post,none,daniela,LS.csv,17.254999999999963,56
+mc,fid20,p1,center,pre,none,daniela,LS.csv,22.64700000000001,58
+mc,fid20,p1,left screen,post,none,daniela,LS.csv,42.88549999999995,56
+mc,fid20,p1,left screen,pre,none,daniela,LS.csv,19.890000000000008,58
+mc,fid20,p1,left side,post,none,daniela,LS.csv,41.85500000000003,56
+mc,fid20,p1,left side,pre,none,daniela,LS.csv,28.029500000000013,58
+mc,fid20,p1,plant,post,none,daniela,LS.csv,62.2825,56
+mc,fid20,p1,plant,pre,none,daniela,LS.csv,42.015000000000015,58
+mc,fid20,p1,right screen,post,none,daniela,LS.csv,89.95650000000003,56
+mc,fid20,p1,right screen,pre,none,daniela,LS.csv,150.04399999999995,58
+mc,fid20,p1,right side,post,none,daniela,LS.csv,41.460999999999984,56
+mc,fid20,p1,right side,pre,none,daniela,LS.csv,36.05250000000002,58
+mc,fid20,p2,center,post,left,daniela,LS.csv,7.473000000000013,39.5
+mc,fid20,p2,center,pre,right,daniela,LS.csv,8.892999999999986,47
+mc,fid20,p2,left screen,post,left,daniela,LS.csv,111.36399999999998,39.5
+mc,fid20,p2,left screen,pre,right,daniela,LS.csv,24.39300000000003,47
+mc,fid20,p2,left side,post,left,daniela,LS.csv,26.191499999999976,39.5
+mc,fid20,p2,left side,pre,right,daniela,LS.csv,9.080999999999975,47
+mc,fid20,p2,plant,post,left,daniela,LS.csv,11.710999999999991,39.5
+mc,fid20,p2,plant,pre,right,daniela,LS.csv,6.8519999999999754,47
+mc,fid20,p2,right screen,post,left,daniela,LS.csv,127.81649999999996,39.5
+mc,fid20,p2,right screen,pre,right,daniela,LS.csv,206.67850000000004,47
+mc,fid20,p2,right side,post,left,daniela,LS.csv,14.446000000000026,39.5
+mc,fid20,p2,right side,pre,right,daniela,LS.csv,43.188,47
+mc,fid20,p3,center,post,right,daniela,LS.csv,15.457499999999953,53
+mc,fid20,p3,center,pre,left,daniela,LS.csv,5.521500000000003,54
+mc,fid20,p3,left screen,post,right,daniela,LS.csv,23.350499999999997,53
+mc,fid20,p3,left screen,pre,left,daniela,LS.csv,181.72199999999998,54
+mc,fid20,p3,left side,post,right,daniela,LS.csv,23.79550000000006,53
+mc,fid20,p3,left side,pre,left,daniela,LS.csv,75.31700000000001,54
+mc,fid20,p3,plant,post,right,daniela,LS.csv,26.094000000000023,53
+mc,fid20,p3,plant,pre,left,daniela,LS.csv,5.729499999999959,54
+mc,fid20,p3,right screen,post,right,daniela,LS.csv,174.2045,53
+mc,fid20,p3,right screen,pre,left,daniela,LS.csv,22.603499999999983,54
+mc,fid20,p3,right side,post,right,daniela,LS.csv,34.881999999999984,53
+mc,fid20,p3,right side,pre,left,daniela,LS.csv,7.478000000000009,54
+mc,fid21,p1,center,post,largeMale,none,adele,18.675999999999988,55
+mc,fid21,p1,center,post,none,adele,LS.csv,22.442499999999978,56
+mc,fid21,p1,left screen,post,largeMale,none,adele,58.454000000000015,55
+mc,fid21,p1,left screen,post,none,adele,LS.csv,50.455000000000005,56
+mc,fid21,p1,left side,post,largeMale,none,adele,41.44099999999998,55
+mc,fid21,p1,left side,post,none,adele,LS.csv,46.805499999999995,56
+mc,fid21,p1,plant,post,largeMale,none,adele,27.430999999999965,55
+mc,fid21,p1,plant,post,none,adele,LS.csv,25.64400000000002,56
+mc,fid21,p1,plant,pre,none,adele,LS.csv,299.786,1
+mc,fid21,p1,right screen,post,largeMale,none,adele,128.22699999999995,55
+mc,fid21,p1,right screen,post,none,adele,LS.csv,100.334,56
+mc,fid21,p1,right side,post,largeMale,none,adele,34.6290000000001,55
+mc,fid21,p1,right side,post,none,adele,LS.csv,53.96600000000002,56
+mc,fid21,p2,center,post,right,adele,LS.csv,14.007000000000044,68
+mc,fid21,p2,left screen,post,right,adele,LS.csv,61.93000000000006,68
+mc,fid21,p2,left side,post,right,adele,LS.csv,26.420999999999985,68
+mc,fid21,p2,plant,post,right,adele,LS.csv,26.67999999999998,68
+mc,fid21,p2,plant,pre,left,adele,LS.csv,299.977,1
+mc,fid21,p2,right screen,post,right,adele,LS.csv,134.726,68
+mc,fid21,p2,right side,post,right,adele,LS.csv,33.495999999999995,68
+mc,fid21,p3,center,post,left,adele,LS.csv,12.080000000000013,35
+mc,fid21,p3,left screen,post,left,adele,LS.csv,176.213,35
+mc,fid21,p3,left side,post,left,adele,LS.csv,22.164000000000016,35
+mc,fid21,p3,plant,post,left,adele,LS.csv,23.11700000000002,35
+mc,fid21,p3,plant,pre,right,adele,LS.csv,298.977,1
+mc,fid21,p3,right screen,post,left,adele,LS.csv,45.45399999999992,35
+mc,fid21,p3,right side,post,left,adele,LS.csv,20.041000000000082,35
+mc,fid22,p1,center,post,none,bernadette,FF.csv,19.117999999999967,73
+mc,fid22,p1,center,pre,none,bernadette,FF.csv,9.340999999999994,55
+mc,fid22,p1,left screen,post,none,bernadette,FF.csv,9.615999999999985,73
+mc,fid22,p1,left screen,pre,none,bernadette,FF.csv,10.426000000000002,55
+mc,fid22,p1,left side,post,none,bernadette,FF.csv,26.252000000000002,73
+mc,fid22,p1,left side,pre,none,bernadette,FF.csv,12.549499999999998,55
+mc,fid22,p1,plant,post,none,bernadette,FF.csv,43.349000000000025,73
+mc,fid22,p1,plant,pre,none,bernadette,FF.csv,15.682500000000001,55
+mc,fid22,p1,right screen,post,none,bernadette,FF.csv,136.74699999999996,73
+mc,fid22,p1,right screen,pre,none,bernadette,FF.csv,223.985,55
+mc,fid22,p1,right side,post,none,bernadette,FF.csv,63.16800000000006,73
+mc,fid22,p1,right side,pre,none,bernadette,FF.csv,27.810999999999986,55
+mc,fid22,p2,center,post,left,bernadette,FF.csv,1.8690000000000033,33
+mc,fid22,p2,left screen,post,left,bernadette,FF.csv,4.003,33
+mc,fid22,p2,left side,post,left,bernadette,FF.csv,5.073,33
+mc,fid22,p2,plant,post,left,bernadette,FF.csv,15.945999999999996,33
+mc,fid22,p2,right screen,post,left,bernadette,FF.csv,247.95299999999997,33
+mc,fid22,p2,right screen,pre,right,bernadette,FF.csv,277.67249999999996,50
+mc,fid22,p2,right side,post,left,bernadette,FF.csv,24.862000000000016,33
+mc,fid22,p2,right side,pre,right,bernadette,FF.csv,21.025500000000036,50
+mc,fid22,p3,center,pre,left,bernadette,FF.csv,2.299999999999997,28
+mc,fid22,p3,left screen,pre,left,bernadette,FF.csv,5.472000000000001,28
+mc,fid22,p3,left side,pre,left,bernadette,FF.csv,2.405999999999999,28
+mc,fid22,p3,plant,pre,left,bernadette,FF.csv,4.276499999999999,28
+mc,fid22,p3,right screen,post,right,bernadette,FF.csv,290.009,23
+mc,fid22,p3,right screen,pre,left,bernadette,FF.csv,262.08,28
+mc,fid22,p3,right side,post,right,bernadette,FF.csv,10.148000000000074,27
+mc,fid22,p3,right side,pre,left,bernadette,FF.csv,23.040499999999994,28
+mc,fid23,p1,center,post,none,bess,LL.csv,2.705,33
+mc,fid23,p1,center,pre,none,bess,LL.csv,8.072000000000006,63.5
+mc,fid23,p1,left screen,post,none,bess,LL.csv,133.01299999999995,33
+mc,fid23,p1,left screen,pre,none,bess,LL.csv,126.5675,63.5
+mc,fid23,p1,left side,post,none,bess,LL.csv,15.119999999999985,33
+mc,fid23,p1,left side,pre,none,bess,LL.csv,46.803000000000004,63.5
+mc,fid23,p1,plant,post,none,bess,LL.csv,136.707,33
+mc,fid23,p1,plant,pre,none,bess,LL.csv,51.11599999999997,63.5
+mc,fid23,p1,right screen,post,none,bess,LL.csv,6.938000000000001,33
+mc,fid23,p1,right screen,pre,none,bess,LL.csv,49.93199999999996,63.5
+mc,fid23,p1,right side,post,none,bess,LL.csv,4.804000000000001,33
+mc,fid23,p1,right side,pre,none,bess,LL.csv,18.049500000000023,63.5
+mc,fid23,p2,center,post,left,bess,LL.csv,16.277999999999977,60
+mc,fid23,p2,center,pre,right,bess,LL.csv,8.935000000000004,61
+mc,fid23,p2,left screen,post,left,bess,LL.csv,32.649,60
+mc,fid23,p2,left screen,pre,right,bess,LL.csv,25.801499999999983,61
+mc,fid23,p2,left side,post,left,bess,LL.csv,52.226999999999954,60
+mc,fid23,p2,left side,pre,right,bess,LL.csv,17.445500000000024,61
+mc,fid23,p2,plant,post,left,bess,LL.csv,120.20099999999996,60
+mc,fid23,p2,plant,pre,right,bess,LL.csv,20.460499999999968,61
+mc,fid23,p2,right screen,post,left,bess,LL.csv,42.57500000000004,60
+mc,fid23,p2,right screen,pre,right,bess,LL.csv,202.63850000000002,61
+mc,fid23,p2,right side,post,left,bess,LL.csv,31.254999999999953,60
+mc,fid23,p2,right side,pre,right,bess,LL.csv,25.004499999999936,61
+mc,fid23,p3,center,post,right,bess,LL.csv,15.747000000000018,45
+mc,fid23,p3,center,pre,left,bess,LL.csv,5.329999999999997,70
+mc,fid23,p3,left screen,post,right,bess,LL.csv,85.68199999999999,45
+mc,fid23,p3,left screen,pre,left,bess,LL.csv,87.47249999999998,70
+mc,fid23,p3,left side,post,right,bess,LL.csv,26.42800000000004,45
+mc,fid23,p3,left side,pre,left,bess,LL.csv,48.87649999999999,70
+mc,fid23,p3,plant,post,right,bess,LL.csv,64.36600000000001,45
+mc,fid23,p3,plant,pre,left,bess,LL.csv,47.0655,70
+mc,fid23,p3,right screen,post,right,bess,LL.csv,83.56800000000001,45
+mc,fid23,p3,right screen,pre,left,bess,LL.csv,78.24250000000004,70
+mc,fid23,p3,right side,post,right,bess,LL.csv,23.197000000000003,45
+mc,fid23,p3,right side,pre,left,bess,LL.csv,32.12649999999997,70
+mc,fid24,p1,center,post,none,ariana,LS.csv,5.1669999999999945,29
+mc,fid24,p1,center,pre,none,ariana,LS.csv,30.344000000000026,42
+mc,fid24,p1,left screen,post,none,ariana,LS.csv,5.099999999999994,29
+mc,fid24,p1,left screen,pre,none,ariana,LS.csv,190.51,42
+mc,fid24,p1,left side,post,none,ariana,LS.csv,50.60999999999997,29
+mc,fid24,p1,left side,pre,none,ariana,LS.csv,28.42850000000001,42
+mc,fid24,p1,plant,post,none,ariana,LS.csv,51.46999999999998,29
+mc,fid24,p1,plant,pre,none,ariana,LS.csv,25.688499999999998,42
+mc,fid24,p1,right screen,post,none,ariana,LS.csv,169.894,29
+mc,fid24,p1,right screen,pre,none,ariana,LS.csv,13.250499999999988,42
+mc,fid24,p1,right side,post,none,ariana,LS.csv,17.69200000000002,29
+mc,fid24,p1,right side,pre,none,ariana,LS.csv,10.913499999999978,42
+mc,fid24,p2,center,post,left,ariana,LS.csv,6.804000000000002,23
+mc,fid24,p2,center,pre,right,ariana,LS.csv,2.832999999999998,54
+mc,fid24,p2,left screen,post,left,ariana,LS.csv,121.72599999999997,23
+mc,fid24,p2,left screen,pre,right,ariana,LS.csv,5.6854999999999984,54
+mc,fid24,p2,left side,post,left,ariana,LS.csv,25.217000000000013,23
+mc,fid24,p2,left side,pre,right,ariana,LS.csv,11.617499999999996,54
+mc,fid24,p2,plant,post,left,ariana,LS.csv,4.767999999999972,23
+mc,fid24,p2,plant,pre,right,ariana,LS.csv,11.158000000000001,54
+mc,fid24,p2,right screen,post,left,ariana,LS.csv,129.72800000000007,23
+mc,fid24,p2,right screen,pre,right,ariana,LS.csv,253.18,54
+mc,fid24,p2,right side,post,left,ariana,LS.csv,7.21399999999997,23
+mc,fid24,p2,right side,pre,right,ariana,LS.csv,13.66249999999997,54
+mc,fid24,p3,center,post,right,ariana,LS.csv,6.670999999999999,31
+mc,fid24,p3,center,pre,left,ariana,LS.csv,2.534499999999994,40
+mc,fid24,p3,left screen,post,right,ariana,LS.csv,251.88299999999998,31
+mc,fid24,p3,left screen,pre,left,ariana,LS.csv,107.94699999999997,40
+mc,fid24,p3,left side,post,right,ariana,LS.csv,25.01200000000001,31
+mc,fid24,p3,left side,pre,left,ariana,LS.csv,22.019500000000036,40
+mc,fid24,p3,plant,post,right,ariana,LS.csv,1.4225,22
+mc,fid24,p3,plant,pre,left,ariana,LS.csv,6.542999999999992,40
+mc,fid24,p3,right screen,post,right,ariana,LS.csv,6.275,31
+mc,fid24,p3,right screen,pre,left,ariana,LS.csv,152.493,40
+mc,fid24,p3,right side,post,right,ariana,LS.csv,7.210000000000001,31
+mc,fid24,p3,right side,pre,left,ariana,LS.csv,7.306499999999988,40
+mc,fid25,p1,center,post,none,amy,FF.csv,8.102999999999994,29
+mc,fid25,p1,center,pre,none,amy,FF.csv,7.473500000000014,46
+mc,fid25,p1,left screen,post,none,amy,FF.csv,193.40499999999997,29
+mc,fid25,p1,left screen,pre,none,amy,FF.csv,209.2404999999999,46
+mc,fid25,p1,left side,post,none,amy,FF.csv,32.995000000000005,29
+mc,fid25,p1,left side,pre,none,amy,FF.csv,38.54150000000008,46
+mc,fid25,p1,plant,post,none,amy,FF.csv,53.471999999999994,29
+mc,fid25,p1,plant,pre,none,amy,FF.csv,3.2040000000000077,45
+mc,fid25,p1,right screen,post,none,amy,FF.csv,6.132000000000005,29
+mc,fid25,p1,right screen,pre,none,amy,FF.csv,23.778,46
+mc,fid25,p1,right side,post,none,amy,FF.csv,5.7379999999999995,29
+mc,fid25,p1,right side,pre,none,amy,FF.csv,17.189999999999998,46
+mc,fid25,p2,center,post,left,amy,FF.csv,9.217000000000041,34
+mc,fid25,p2,center,pre,right,amy,FF.csv,1.5344999999999942,25.5
+mc,fid25,p2,left screen,post,left,amy,FF.csv,119.106,34
+mc,fid25,p2,left screen,pre,right,amy,FF.csv,161.5385,25.5
+mc,fid25,p2,left side,post,left,amy,FF.csv,37.906000000000034,34
+mc,fid25,p2,left side,pre,right,amy,FF.csv,5.539499999999999,25.5
+mc,fid25,p2,plant,post,left,amy,FF.csv,11.872000000000014,34
+mc,fid25,p2,right screen,post,left,amy,FF.csv,99.43399999999997,34
+mc,fid25,p2,right screen,pre,right,amy,FF.csv,127.00950000000002,25.5
+mc,fid25,p2,right side,post,left,amy,FF.csv,19.951999999999998,34
+mc,fid25,p2,right side,pre,right,amy,FF.csv,3.8724999999999454,25.5
+mc,fid25,p3,center,post,right,amy,FF.csv,5.074999999999989,49
+mc,fid25,p3,center,pre,left,amy,FF.csv,10.397499999999951,59
+mc,fid25,p3,left screen,post,right,amy,FF.csv,87.31400000000001,31
+mc,fid25,p3,left screen,pre,left,amy,FF.csv,34.47449999999998,59
+mc,fid25,p3,left side,post,right,amy,FF.csv,18.987999999999985,31
+mc,fid25,p3,left side,pre,left,amy,FF.csv,35.16200000000005,59
+mc,fid25,p3,plant,post,right,amy,FF.csv,66.03199999999998,31
+mc,fid25,p3,plant,pre,left,amy,FF.csv,14.700000000000003,59
+mc,fid25,p3,right screen,post,right,amy,FF.csv,105.204,31
+mc,fid25,p3,right screen,pre,left,amy,FF.csv,168.913,59
+mc,fid25,p3,right side,post,right,amy,FF.csv,18.276000000000014,31
+mc,fid25,p3,right side,pre,left,amy,FF.csv,36.933499999999995,59
+mc,fid26,p1,center,pre,none,beverly,LS.csv,17.34350000000001,93
+mc,fid26,p1,left screen,pre,none,beverly,LS.csv,94.496,93
+mc,fid26,p1,left side,pre,none,beverly,LS.csv,47.53500000000001,93
+mc,fid26,p1,plant,pre,none,beverly,LS.csv,17.61800000000001,93
+mc,fid26,p1,right screen,post,none,beverly,LS.csv,290.40999999999997,11
+mc,fid26,p1,right screen,pre,none,beverly,LS.csv,77.9585,93
+mc,fid26,p1,right side,post,none,beverly,LS.csv,9.567000000000036,11
+mc,fid26,p1,right side,pre,none,beverly,LS.csv,44.5595,93
+mc,fid26,p2,center,post,left,beverly,LS.csv,9.767000000000024,31
+mc,fid26,p2,center,pre,right,beverly,LS.csv,15.931500000000021,104.5
+mc,fid26,p2,left screen,post,left,beverly,LS.csv,20.70199999999994,31
+mc,fid26,p2,left screen,pre,right,beverly,LS.csv,43.0445,104.5
+mc,fid26,p2,left side,post,left,beverly,LS.csv,13.811999999999983,31
+mc,fid26,p2,left side,pre,right,beverly,LS.csv,54.69549999999998,104.5
+mc,fid26,p2,plant,post,left,beverly,LS.csv,23.35899999999998,31
+mc,fid26,p2,plant,pre,right,beverly,LS.csv,75.1805,104.5
+mc,fid26,p2,right screen,post,left,beverly,LS.csv,220.35800000000006,31
+mc,fid26,p2,right screen,pre,right,beverly,LS.csv,56.49099999999996,104.5
+mc,fid26,p2,right side,post,left,beverly,LS.csv,14.021999999999943,31
+mc,fid26,p2,right side,pre,right,beverly,LS.csv,53.86850000000008,104.5
+mc,fid26,p3,center,pre,left,beverly,LS.csv,20.466499999999993,88.5
+mc,fid26,p3,left screen,pre,left,beverly,LS.csv,69.2105,88.5
+mc,fid26,p3,left side,pre,left,beverly,LS.csv,73.71350000000002,88.5
+mc,fid26,p3,plant,pre,left,beverly,LS.csv,49.96449999999997,88.5
+mc,fid26,p3,right screen,post,right,beverly,LS.csv,299.583,1
+mc,fid26,p3,right screen,pre,left,beverly,LS.csv,41.916,88.5
+mc,fid26,p3,right side,post,right,beverly,LS.csv,1.318000000000012,5
+mc,fid26,p3,right side,pre,left,beverly,LS.csv,44.92749999999999,88.5
+mc,fid27,p1,center,post,none,amber,SS.csv,1.6030000000000104,9
+mc,fid27,p1,plant,post,none,amber,SS.csv,127.11599999999999,9
+mc,fid27,p1,right screen,post,none,amber,SS.csv,60.22800000000001,9
+mc,fid27,p1,right side,post,none,amber,SS.csv,108.118,9
+mc,fid27,p2,center,post,right,amber,SS.csv,1.686499999999997,20.5
+mc,fid27,p2,left screen,post,right,amber,SS.csv,178.01850000000007,21
+mc,fid27,p2,left side,post,right,amber,SS.csv,42.13849999999994,21
+mc,fid27,p2,plant,post,right,amber,SS.csv,59.3395,21
+mc,fid27,p2,right side,post,right,amber,SS.csv,17.701500000000003,21
+mc,fid27,p3,center,post,left,amber,SS.csv,15.811500000000002,26.5
+mc,fid27,p3,left screen,post,left,amber,SS.csv,21.85450000000001,26.5
+mc,fid27,p3,left side,post,left,amber,SS.csv,9.343499999999985,26.5
+mc,fid27,p3,plant,post,left,amber,SS.csv,204.628,26.5
+mc,fid27,p3,right screen,post,left,amber,SS.csv,9.381500000000003,26.5
+mc,fid27,p3,right side,post,left,amber,SS.csv,36.33399999999999,26.5
+mc,fid28,p1,center,post,none,becca,SS.csv,12.747999999999998,65.5
+mc,fid28,p1,left screen,post,none,becca,SS.csv,152.87799999999987,65.5
+mc,fid28,p1,left side,post,none,becca,SS.csv,35.504000000000126,65.5
+mc,fid28,p1,plant,post,none,becca,SS.csv,9.525499999999978,65.5
+mc,fid28,p1,right screen,post,none,becca,SS.csv,61.168000000000035,65.5
+mc,fid28,p1,right side,post,none,becca,SS.csv,26.083999999999982,65.5
+mc,fid28,p2,center,post,right,becca,SS.csv,9.105499999999996,85.5
+mc,fid28,p2,left screen,post,right,becca,SS.csv,170.15649999999997,72.5
+mc,fid28,p2,left side,post,right,becca,SS.csv,28.799500000000037,72.5
+mc,fid28,p2,plant,post,right,becca,SS.csv,13.146000000000008,72.5
+mc,fid28,p2,right screen,post,right,becca,SS.csv,68.80149999999999,72.5
+mc,fid28,p2,right side,post,right,becca,SS.csv,13.302999999999985,72.5
+mc,fid28,p3,center,post,left,becca,SS.csv,2.5345000000000013,49
+mc,fid28,p3,left screen,post,left,becca,SS.csv,230.442,49
+mc,fid28,p3,left side,post,left,becca,SS.csv,37.372499999999974,49
+mc,fid28,p3,plant,post,left,becca,SS.csv,17.215500000000027,49
+mc,fid28,p3,right screen,post,left,becca,SS.csv,1.4495000000000005,49
+mc,fid28,p3,right side,post,left,becca,SS.csv,8.187999999999983,49
+mc,fid29,p1,center,pre,none,alice,LS.csv,15.749999999999977,24
+mc,fid29,p1,left screen,pre,none,alice,LS.csv,33.78499999999999,24
+mc,fid29,p1,left side,pre,none,alice,LS.csv,31.933000000000014,24
+mc,fid29,p1,plant,pre,none,alice,LS.csv,192.369,24
+mc,fid29,p1,right screen,pre,none,alice,LS.csv,15.619,24
+mc,fid29,p1,right side,pre,none,alice,LS.csv,9.206000000000017,24
+mc,fid29,p2,center,pre,right,alice,LS.csv,11.661500000000004,44.5
+mc,fid29,p2,left screen,pre,right,alice,LS.csv,40.700500000000005,44.5
+mc,fid29,p2,left side,pre,right,alice,LS.csv,21.47500000000002,44.5
+mc,fid29,p2,plant,pre,right,alice,LS.csv,113.36,44.5
+mc,fid29,p2,right screen,pre,right,alice,LS.csv,76.244,44.5
+mc,fid29,p2,right side,pre,right,alice,LS.csv,35.392999999999965,44.5
+mc,fid29,p3,center,pre,left,alice,LS.csv,18.019500000000026,38
+mc,fid29,p3,left screen,pre,left,alice,LS.csv,18.55300000000003,38
+mc,fid29,p3,left side,pre,left,alice,LS.csv,15.614499999999964,38
+mc,fid29,p3,plant,pre,left,alice,LS.csv,206.1875,38
+mc,fid29,p3,right screen,pre,left,alice,LS.csv,23.809499999999993,38
+mc,fid29,p3,right side,pre,left,alice,LS.csv,15.282499999999992,38
+mc,fid3,p1,center,post,none,diana,LL.csv,33.005,7
+mc,fid3,p1,center,pre,none,diana,LL.csv,3.170999999999994,9
+mc,fid3,p1,plant,pre,none,diana,LL.csv,60.321999999999996,9
+mc,fid3,p1,right screen,post,none,diana,LL.csv,251.88699999999994,7
+mc,fid3,p1,right screen,pre,none,diana,LL.csv,228.277,9
+mc,fid3,p1,right side,post,none,diana,LL.csv,13.61000000000002,7
+mc,fid3,p1,right side,pre,none,diana,LL.csv,7.666999999999993,9
+mc,fid3,p2,center,pre,right,diana,LL.csv,12.81600000000001,26
+mc,fid3,p2,left screen,pre,right,diana,LL.csv,6.677,26
+mc,fid3,p2,left side,pre,right,diana,LL.csv,22.685000000000002,26
+mc,fid3,p2,plant,pre,right,diana,LL.csv,17.113,26
+mc,fid3,p2,right screen,post,left,diana,LL.csv,298.188,1
+mc,fid3,p2,right screen,pre,right,diana,LL.csv,194.70699999999997,26
+mc,fid3,p2,right side,post,left,diana,LL.csv,1.73599999999999,3
+mc,fid3,p2,right side,pre,right,diana,LL.csv,43.75000000000003,26
+mc,fid3,p3,right screen,post,right,diana,LL.csv,296.279,5
+mc,fid3,p3,right screen,pre,left,diana,LL.csv,299.65,1
+mc,fid3,p3,right side,post,right,diana,LL.csv,4.538999999999987,7
+mc,fid3,p3,right side,pre,left,diana,LL.csv,3.602000000000004,3
+mc,fid30,p1,center,post,none,dawn,LL.csv,9.644000000000002,93
+mc,fid30,p1,center,pre,none,dawn,LL.csv,20.899499999999993,68.5
+mc,fid30,p1,left screen,post,none,dawn,LL.csv,166.1020000000001,93
+mc,fid30,p1,left screen,pre,none,dawn,LL.csv,41.70250000000001,68.5
+mc,fid30,p1,left side,post,none,dawn,LL.csv,44.95099999999994,93
+mc,fid30,p1,left side,pre,none,dawn,LL.csv,27.697499999999998,68.5
+mc,fid30,p1,plant,post,none,dawn,LL.csv,13.578499999999984,93
+mc,fid30,p1,plant,pre,none,dawn,LL.csv,55.32200000000002,68.5
+mc,fid30,p1,right screen,post,none,dawn,LL.csv,36.28650000000001,93
+mc,fid30,p1,right screen,pre,none,dawn,LL.csv,123.83049999999994,68.5
+mc,fid30,p1,right side,post,none,dawn,LL.csv,26.260499999999997,93
+mc,fid30,p1,right side,pre,none,dawn,LL.csv,30.358999999999998,68.5
+mc,fid30,p2,center,post,left,dawn,LL.csv,9.344999999999994,63
+mc,fid30,p2,center,pre,right,dawn,LL.csv,34.485000000000014,127
+mc,fid30,p2,left screen,post,left,dawn,LL.csv,45.67400000000001,63
+mc,fid30,p2,left screen,pre,right,dawn,LL.csv,43.81949999999995,127
+mc,fid30,p2,left side,post,left,dawn,LL.csv,39.36349999999997,63
+mc,fid30,p2,left side,pre,right,dawn,LL.csv,59.627500000000055,127
+mc,fid30,p2,plant,post,left,dawn,LL.csv,25.49050000000001,63
+mc,fid30,p2,plant,pre,right,dawn,LL.csv,25.134999999999962,127
+mc,fid30,p2,right screen,post,left,dawn,LL.csv,139.06400000000002,63
+mc,fid30,p2,right screen,pre,right,dawn,LL.csv,77.51750000000007,127
+mc,fid30,p2,right side,post,left,dawn,LL.csv,22.296000000000006,63
+mc,fid30,p2,right side,pre,right,dawn,LL.csv,58.22299999999997,127
+mc,fid30,p3,center,pre,left,dawn,LL.csv,31.102499999999935,136.5
+mc,fid30,p3,left screen,pre,left,dawn,LL.csv,63.57899999999999,136.5
+mc,fid30,p3,left side,pre,left,dawn,LL.csv,58.088000000000065,136.5
+mc,fid30,p3,plant,pre,left,dawn,LL.csv,19.090499999999977,136.5
+mc,fid30,p3,right screen,post,right,dawn,LL.csv,295.8445,9
+mc,fid30,p3,right screen,pre,left,dawn,LL.csv,75.79249999999993,136.5
+mc,fid30,p3,right side,post,right,dawn,LL.csv,5.074000000000012,11
+mc,fid30,p3,right side,pre,left,dawn,LL.csv,50.275000000000105,136.5
+mc,fid31,p1,center,post,none,bailey,LL.csv,17.19749999999999,41
+mc,fid31,p1,center,pre,none,bailey,LL.csv,31.354000000000035,63.5
+mc,fid31,p1,left screen,post,none,bailey,LL.csv,49.5155,41
+mc,fid31,p1,left screen,pre,none,bailey,LL.csv,78.09899999999998,63.5
+mc,fid31,p1,left side,post,none,bailey,LL.csv,36.17949999999999,41
+mc,fid31,p1,left side,pre,none,bailey,LL.csv,39.50149999999999,63.5
+mc,fid31,p1,plant,post,none,bailey,LL.csv,68.06700000000004,41
+mc,fid31,p1,plant,pre,none,bailey,LL.csv,55.88799999999998,63.5
+mc,fid31,p1,right screen,post,none,bailey,LL.csv,81.94050000000001,41
+mc,fid31,p1,right screen,pre,none,bailey,LL.csv,50.41799999999999,63.5
+mc,fid31,p1,right side,post,none,bailey,LL.csv,48.53599999999997,41
+mc,fid31,p1,right side,pre,none,bailey,LL.csv,42.961000000000034,63.5
+mc,fid31,p2,center,post,right,bailey,LL.csv,24.573999999999984,37.5
+mc,fid31,p2,center,pre,left,bailey,LL.csv,6.740499999999997,30
+mc,fid31,p2,left screen,post,right,bailey,LL.csv,19.787499999999994,37.5
+mc,fid31,p2,left screen,pre,left,bailey,LL.csv,211.832,30
+mc,fid31,p2,left side,post,right,bailey,LL.csv,24.157500000000013,37.5
+mc,fid31,p2,left side,pre,left,bailey,LL.csv,45.712999999999994,30
+mc,fid31,p2,plant,post,right,bailey,LL.csv,15.031000000000006,27
+mc,fid31,p2,plant,pre,left,bailey,LL.csv,1.5360000000000014,32
+mc,fid31,p2,right screen,post,right,bailey,LL.csv,186.17100000000005,37.5
+mc,fid31,p2,right screen,pre,left,bailey,LL.csv,21.68699999999999,30
+mc,fid31,p2,right side,post,right,bailey,LL.csv,45.017499999999984,37.5
+mc,fid31,p2,right side,pre,left,bailey,LL.csv,11.412500000000009,30
+mc,fid31,p3,center,post,left,bailey,LL.csv,7.074499999999986,18.5
+mc,fid31,p3,center,pre,right,bailey,LL.csv,46.11550000000001,54.5
+mc,fid31,p3,left screen,post,left,bailey,LL.csv,2.8015000000000043,18.5
+mc,fid31,p3,left screen,pre,right,bailey,LL.csv,42.80999999999999,54.5
+mc,fid31,p3,left side,post,left,bailey,LL.csv,5.873999999999995,18.5
+mc,fid31,p3,left side,pre,right,bailey,LL.csv,60.99100000000004,54.5
+mc,fid31,p3,plant,post,left,bailey,LL.csv,2.268000000000015,18.5
+mc,fid31,p3,plant,pre,right,bailey,LL.csv,6.606499999999983,54.5
+mc,fid31,p3,right screen,post,left,bailey,LL.csv,269.19300000000004,18.5
+mc,fid31,p3,right screen,pre,right,bailey,LL.csv,89.40650000000001,54.5
+mc,fid31,p3,right side,post,left,bailey,LL.csv,9.678999999999931,18.5
+mc,fid31,p3,right side,pre,right,bailey,LL.csv,51.44699999999999,54.5
+mc,fid32,p1,center,post,none,claire,INT.csv,14.690000000000008,30
+mc,fid32,p1,center,pre,none,claire,INT.csv,28.830000000000005,28
+mc,fid32,p1,left screen,post,none,claire,INT.csv,33.899999999999984,30
+mc,fid32,p1,left screen,pre,none,claire,INT.csv,70.83449999999999,28
+mc,fid32,p1,left side,post,none,claire,INT.csv,21.35200000000001,30
+mc,fid32,p1,left side,pre,none,claire,INT.csv,40.91250000000001,28
+mc,fid32,p1,plant,post,none,claire,INT.csv,14.94599999999999,30
+mc,fid32,p1,plant,pre,none,claire,INT.csv,95.594,28
+mc,fid32,p1,right screen,post,none,claire,INT.csv,194.857,30
+mc,fid32,p1,right screen,pre,none,claire,INT.csv,36.16900000000001,28
+mc,fid32,p1,right side,post,none,claire,INT.csv,17.616000000000028,30
+mc,fid32,p1,right side,pre,none,claire,INT.csv,22.541999999999984,28
+mc,fid32,p2,center,pre,right,claire,INT.csv,4.055500000000009,5
+mc,fid32,p2,left screen,pre,right,claire,INT.csv,287.137,5
+mc,fid32,p2,left side,pre,right,claire,INT.csv,7.695000000000007,5
+mc,fid32,p2,right screen,post,left,claire,INT.csv,293.452,5
+mc,fid32,p2,right side,post,left,claire,INT.csv,4.266999999999996,5
+mc,fid32,p3,center,pre,left,claire,INT.csv,1.5969999999999942,5
+mc,fid32,p3,left screen,pre,left,claire,INT.csv,291.35,3
+mc,fid32,p3,left side,pre,left,claire,INT.csv,6.672999999999995,3
+mc,fid32,p3,right screen,post,right,claire,INT.csv,299.805,1
+mc,fid33,p1,center,post,none,barbara,INT.csv,8.009000000000004,23
+mc,fid33,p1,left screen,post,none,barbara,INT.csv,252.00500000000002,23
+mc,fid33,p1,left side,post,none,barbara,INT.csv,16.012999999999998,23
+mc,fid33,p1,right screen,post,none,barbara,INT.csv,16.419000000000004,23
+mc,fid33,p1,right side,post,none,barbara,INT.csv,6.667999999999994,23
+mc,fid33,p2,center,post,right,barbara,INT.csv,2.569000000000017,15
+mc,fid33,p2,left screen,post,right,barbara,INT.csv,275.91599999999994,15
+mc,fid33,p2,left side,post,right,barbara,INT.csv,12.542999999999985,15
+mc,fid33,p2,plant,post,right,barbara,INT.csv,2.9329999999999927,15
+mc,fid33,p2,right screen,post,right,barbara,INT.csv,4.670999999999992,15
+mc,fid33,p2,right side,post,right,barbara,INT.csv,3.736000000000047,15
+mc,fid33,p3,center,post,left,barbara,INT.csv,5.609999999999985,13
+mc,fid33,p3,left screen,post,left,barbara,INT.csv,280.36300000000006,13
+mc,fid33,p3,left side,post,left,barbara,INT.csv,9.947999999999965,13
+mc,fid33,p3,right side,post,left,barbara,INT.csv,3.736000000000004,13
+mc,fid34,p1,center,post,none,charlotte,INT.csv,40.56299999999999,78
+mc,fid34,p1,center,pre,none,charlotte,INT.csv,15.21750000000001,39.5
+mc,fid34,p1,left screen,post,none,charlotte,INT.csv,73.40699999999995,78
+mc,fid34,p1,left screen,pre,none,charlotte,INT.csv,15.891000000000002,39.5
+mc,fid34,p1,left side,post,none,charlotte,INT.csv,42.98100000000003,78
+mc,fid34,p1,left side,pre,none,charlotte,INT.csv,10.142999999999997,39.5
+mc,fid34,p1,plant,post,none,charlotte,INT.csv,33.746,78
+mc,fid34,p1,plant,pre,none,charlotte,INT.csv,12.141999999999996,39.5
+mc,fid34,p1,right screen,post,none,charlotte,INT.csv,72.074,78
+mc,fid34,p1,right screen,pre,none,charlotte,INT.csv,216.94600000000003,39.5
+mc,fid34,p1,right side,post,none,charlotte,INT.csv,36.64199999999999,78
+mc,fid34,p1,right side,pre,none,charlotte,INT.csv,28.101999999999997,39.5
+mc,fid34,p2,center,post,charlotte,INT.csv,NA,10.751000000000014,47
+mc,fid34,p2,center,post,left,charlotte,INT.csv,7.591499999999996,26
+mc,fid34,p2,center,pre,right,charlotte,INT.csv,19.780999999999963,70.5
+mc,fid34,p2,left screen,post,charlotte,INT.csv,NA,6.675999999999997,47
+mc,fid34,p2,left screen,post,left,charlotte,INT.csv,6.404499999999999,26
+mc,fid34,p2,left screen,pre,right,charlotte,INT.csv,18.949500000000015,70.5
+mc,fid34,p2,left side,post,charlotte,INT.csv,NA,12.377999999999995,47
+mc,fid34,p2,left side,post,left,charlotte,INT.csv,10.80950000000001,26
+mc,fid34,p2,left side,pre,right,charlotte,INT.csv,24.372000000000014,70.5
+mc,fid34,p2,plant,post,charlotte,INT.csv,NA,5.868000000000002,47
+mc,fid34,p2,plant,post,left,charlotte,INT.csv,8.811,26
+mc,fid34,p2,plant,pre,right,charlotte,INT.csv,18.56899999999999,70.5
+mc,fid34,p2,right screen,post,charlotte,INT.csv,NA,235.09400000000002,47
+mc,fid34,p2,right screen,post,left,charlotte,INT.csv,251.75400000000005,26
+mc,fid34,p2,right screen,pre,right,charlotte,INT.csv,175.12199999999993,70.5
+mc,fid34,p2,right side,post,charlotte,INT.csv,NA,28.59399999999998,47
+mc,fid34,p2,right side,post,left,charlotte,INT.csv,13.995999999999963,26
+mc,fid34,p2,right side,pre,right,charlotte,INT.csv,41.64550000000003,70.5
+mc,fid34,p3,center,pre,left,charlotte,INT.csv,21.7565,44
+mc,fid34,p3,left screen,pre,left,charlotte,INT.csv,11.208500000000004,44
+mc,fid34,p3,left side,pre,left,charlotte,INT.csv,22.76099999999999,44
+mc,fid34,p3,plant,pre,left,charlotte,INT.csv,3.2040000000000006,43
+mc,fid34,p3,right screen,post,right,charlotte,INT.csv,292.044,7
+mc,fid34,p3,right screen,pre,left,charlotte,INT.csv,194.904,44
+mc,fid34,p3,right side,post,right,charlotte,INT.csv,8.076000000000036,7
+mc,fid34,p3,right side,pre,left,charlotte,INT.csv,46.15899999999999,44
+mc,fid35,p1,center,post,none,beatrice,INT.csv,7.207000000000001,22
+mc,fid35,p1,left side,post,none,beatrice,INT.csv,14.143,22
+mc,fid35,p1,plant,post,none,beatrice,INT.csv,27.321000000000005,22
+mc,fid35,p1,right screen,post,none,beatrice,INT.csv,225.945,22
+mc,fid35,p1,right side,post,none,beatrice,INT.csv,24.120999999999995,22
+mc,fid35,p2,center,post,right,beatrice,INT.csv,30.394999999999982,18
+mc,fid35,p2,left screen,post,right,beatrice,INT.csv,128.62300000000005,18
+mc,fid35,p2,left side,post,right,beatrice,INT.csv,16.890999999999977,18
+mc,fid35,p2,plant,post,right,beatrice,INT.csv,24.718999999999994,18
+mc,fid35,p2,right screen,post,right,beatrice,INT.csv,85.67099999999999,18
+mc,fid35,p2,right side,post,right,beatrice,INT.csv,13.947999999999993,18
+mc,fid35,p3,center,post,left,beatrice,INT.csv,26.664000000000016,33
+mc,fid35,p3,left screen,post,left,beatrice,INT.csv,171.78,33
+mc,fid35,p3,left side,post,left,beatrice,INT.csv,38.43500000000001,33
+mc,fid35,p3,plant,post,left,beatrice,INT.csv,0.5339999999999918,33
+mc,fid35,p3,right screen,post,left,beatrice,INT.csv,31.126,33
+mc,fid35,p3,right side,post,left,beatrice,INT.csv,30.399999999999984,33
+mc,fid36,p1,center,post,none,bethany,LS.csv,22.560000000000006,39
+mc,fid36,p1,center,pre,none,bethany,LS.csv,32.8755,75.5
+mc,fid36,p1,left screen,post,none,bethany,LS.csv,9.344000000000008,39
+mc,fid36,p1,left screen,pre,none,bethany,LS.csv,57.378,75.5
+mc,fid36,p1,left side,post,none,bethany,LS.csv,19.884,39
+mc,fid36,p1,left side,pre,none,bethany,LS.csv,54.68899999999998,75.5
+mc,fid36,p1,plant,post,none,bethany,LS.csv,3.4559999999999995,40.5
+mc,fid36,p1,plant,pre,none,bethany,LS.csv,20.41950000000002,75.5
+mc,fid36,p1,right screen,post,none,bethany,LS.csv,210.18899999999996,39
+mc,fid36,p1,right screen,pre,none,bethany,LS.csv,83.6515,75.5
+mc,fid36,p1,right side,post,none,bethany,LS.csv,34.96199999999996,39
+mc,fid36,p1,right side,pre,none,bethany,LS.csv,46.07550000000003,75.5
+mc,fid36,p2,center,post,left,bethany,LS.csv,16.080999999999996,19
+mc,fid36,p2,center,pre,right,bethany,LS.csv,25.181000000000033,49.5
+mc,fid36,p2,left screen,post,left,bethany,LS.csv,159.95499999999998,19
+mc,fid36,p2,left screen,pre,right,bethany,LS.csv,2.4184999999999945,49.5
+mc,fid36,p2,left side,post,left,bethany,LS.csv,19.521000000000008,19
+mc,fid36,p2,left side,pre,right,bethany,LS.csv,23.884999999999977,49.5
+mc,fid36,p2,plant,post,left,bethany,LS.csv,3.5874999999999986,23
+mc,fid36,p2,plant,pre,right,bethany,LS.csv,22.6755,49.5
+mc,fid36,p2,right screen,post,left,bethany,LS.csv,83.816,19
+mc,fid36,p2,right screen,pre,right,bethany,LS.csv,181.971,49.5
+mc,fid36,p2,right side,post,left,bethany,LS.csv,17.179999999999993,19
+mc,fid36,p2,right side,pre,right,bethany,LS.csv,36.974,49.5
+mc,fid36,p3,center,post,right,bethany,LS.csv,52.605999999999945,68
+mc,fid36,p3,center,pre,left,bethany,LS.csv,35.60500000000006,81
+mc,fid36,p3,left screen,post,right,bethany,LS.csv,17.649000000000015,68
+mc,fid36,p3,left screen,pre,left,bethany,LS.csv,64.95049999999998,81
+mc,fid36,p3,left side,post,right,bethany,LS.csv,30.702000000000005,68
+mc,fid36,p3,left side,pre,left,bethany,LS.csv,58.90050000000003,81
+mc,fid36,p3,plant,post,right,bethany,LS.csv,60.413,68
+mc,fid36,p3,plant,pre,left,bethany,LS.csv,13.746499999999976,81
+mc,fid36,p3,right screen,post,right,bethany,LS.csv,72.34400000000005,68
+mc,fid36,p3,right screen,pre,left,bethany,LS.csv,68.73350000000002,81
+mc,fid36,p3,right side,post,right,bethany,LS.csv,63.138000000000005,68
+mc,fid36,p3,right side,pre,left,bethany,LS.csv,56.200500000000005,81
+mc,fid37,p1,center,post,none,bianca,LL.csv,2.405000000000003,15
+mc,fid37,p1,center,pre,none,bianca,LL.csv,7.249500000000016,22
+mc,fid37,p1,left screen,post,none,bianca,LL.csv,228.655,15
+mc,fid37,p1,left screen,pre,none,bianca,LL.csv,229.0315,22
+mc,fid37,p1,left side,post,none,bianca,LL.csv,15.479000000000006,15
+mc,fid37,p1,left side,pre,none,bianca,LL.csv,14.827999999999998,22
+mc,fid37,p1,plant,post,none,bianca,LL.csv,15.221,15
+mc,fid37,p1,plant,pre,none,bianca,LL.csv,35.39299999999995,22
+mc,fid37,p1,right screen,post,none,bianca,LL.csv,4.541000000000004,15
+mc,fid37,p1,right screen,pre,none,bianca,LL.csv,5.271500000000001,22
+mc,fid37,p1,right side,post,none,bianca,LL.csv,20.925000000000004,15
+mc,fid37,p1,right side,pre,none,bianca,LL.csv,7.338999999999998,22
+mc,fid37,p2,center,post,right,bianca,LL.csv,6.129999999999967,11
+mc,fid37,p2,center,pre,left,bianca,LL.csv,8.063000000000002,39.5
+mc,fid37,p2,left screen,post,right,bianca,LL.csv,143.687,11
+mc,fid37,p2,left screen,pre,left,bianca,LL.csv,166.60700000000003,39.5
+mc,fid37,p2,left side,post,right,bianca,LL.csv,9.841999999999985,11
+mc,fid37,p2,left side,pre,left,bianca,LL.csv,20.620999999999995,39.5
+mc,fid37,p2,plant,post,right,bianca,LL.csv,2.1030000000000086,13
+mc,fid37,p2,plant,pre,left,bianca,LL.csv,1.4674999999999994,39.5
+mc,fid37,p2,right screen,post,right,bianca,LL.csv,128.566,11
+mc,fid37,p2,right screen,pre,left,bianca,LL.csv,88.62449999999998,39.5
+mc,fid37,p2,right side,post,right,bianca,LL.csv,11.108000000000004,11
+mc,fid37,p2,right side,pre,left,bianca,LL.csv,13.452499999999997,39.5
+mc,fid37,p3,center,pre,right,bianca,LL.csv,17.89249999999998,44.5
+mc,fid37,p3,left screen,pre,right,bianca,LL.csv,55.604500000000016,44.5
+mc,fid37,p3,left side,pre,right,bianca,LL.csv,30.891999999999992,44.5
+mc,fid37,p3,plant,pre,right,bianca,LL.csv,1.6005000000000038,44.5
+mc,fid37,p3,right screen,post,left,bianca,LL.csv,299.855,1
+mc,fid37,p3,right screen,pre,right,bianca,LL.csv,155.74849999999998,44.5
+mc,fid37,p3,right side,post,left,bianca,LL.csv,4.874999999999975,9
+mc,fid37,p3,right side,pre,right,bianca,LL.csv,35.629000000000005,44.5
+mc,fid38,p1,center,post,none,audrey,FF.csv,11.121,34
+mc,fid38,p1,center,pre,none,audrey,FF.csv,1.0670000000000073,7
+mc,fid38,p1,left screen,post,none,audrey,FF.csv,44.04800000000001,34
+mc,fid38,p1,left screen,pre,none,audrey,FF.csv,203.2895,13
+mc,fid38,p1,left side,post,none,audrey,FF.csv,24.86200000000002,34
+mc,fid38,p1,left side,pre,none,audrey,FF.csv,4.669500000000006,13
+mc,fid38,p1,plant,post,none,audrey,FF.csv,19.485000000000014,34
+mc,fid38,p1,plant,pre,none,audrey,FF.csv,30.648499999999995,13
+mc,fid38,p1,right screen,post,none,audrey,FF.csv,183.173,34
+mc,fid38,p1,right screen,pre,none,audrey,FF.csv,54.793000000000006,13
+mc,fid38,p1,right side,post,none,audrey,FF.csv,14.274000000000008,34
+mc,fid38,p1,right side,pre,none,audrey,FF.csv,3.163999999999997,13
+mc,fid38,p2,center,pre,right,audrey,FF.csv,5.885000000000004,27
+mc,fid38,p2,left screen,pre,right,audrey,FF.csv,5.203500000000005,27
+mc,fid38,p2,left side,pre,right,audrey,FF.csv,6.408999999999997,27
+mc,fid38,p2,plant,pre,right,audrey,FF.csv,33.096999999999994,27
+mc,fid38,p2,right screen,post,left,audrey,FF.csv,299.66,1
+mc,fid38,p2,right screen,pre,right,audrey,FF.csv,241.2795,27
+mc,fid38,p2,right side,post,left,audrey,FF.csv,6.91200000000002,27
+mc,fid38,p2,right side,pre,right,audrey,FF.csv,9.874999999999995,27
+mc,fid38,p3,center,post,right,audrey,FF.csv,1.2009999999999998,4
+mc,fid38,p3,left side,post,right,audrey,FF.csv,0.7989999999999999,4
+mc,fid38,p3,right screen,post,right,audrey,FF.csv,295.389,4
+mc,fid38,p3,right screen,pre,left,audrey,FF.csv,296.59749999999997,3
+mc,fid38,p3,right side,post,right,audrey,FF.csv,1.5515,4
+mc,fid38,p3,right side,pre,left,audrey,FF.csv,4.907499999999995,7
+mc,fid39,p1,right screen,pre,none,alexandra,INT.csv,296.04499999999996,2.5
+mc,fid39,p1,right side,pre,none,alexandra,INT.csv,2.668999999999997,3
+mc,fid39,p2,center,pre,right,alexandra,INT.csv,7.457500000000067,19
+mc,fid39,p2,left screen,pre,right,alexandra,INT.csv,8.138999999999982,19
+mc,fid39,p2,left side,pre,right,alexandra,INT.csv,8.845499999999987,19
+mc,fid39,p2,right screen,pre,right,alexandra,INT.csv,258.49299999999994,19
+mc,fid39,p2,right side,pre,right,alexandra,INT.csv,14.670499999999947,19
+mc,fid39,p3,left screen,pre,left,alexandra,INT.csv,298.53049999999996,4
+mc,fid39,p3,left side,pre,left,alexandra,INT.csv,2.617499999999996,8
+mc,fid4,p1,center,post,none,beyonce,FF.csv,17.744000000000007,37
+mc,fid4,p1,center,pre,none,beyonce,FF.csv,24.972500000000018,127.5
+mc,fid4,p1,left screen,post,none,beyonce,FF.csv,46.715,37
+mc,fid4,p1,left screen,pre,none,beyonce,FF.csv,72.62349999999999,127.5
+mc,fid4,p1,left side,post,none,beyonce,FF.csv,56.85199999999999,37
+mc,fid4,p1,left side,pre,none,beyonce,FF.csv,46.37649999999999,127.5
+mc,fid4,p1,plant,post,none,beyonce,FF.csv,22.69100000000001,37
+mc,fid4,p1,plant,pre,none,beyonce,FF.csv,22.95100000000001,127.5
+mc,fid4,p1,right screen,post,none,beyonce,FF.csv,109.16899999999993,37
+mc,fid4,p1,right screen,pre,none,beyonce,FF.csv,79.41900000000001,127.5
+mc,fid4,p1,right side,post,none,beyonce,FF.csv,48.4140000000001,37
+mc,fid4,p1,right side,pre,none,beyonce,FF.csv,52.64749999999995,127.5
+mc,fid4,p2,center,post,left,beyonce,FF.csv,9.342999999999964,69
+mc,fid4,p2,center,pre,right,beyonce,FF.csv,18.644499999999987,106.5
+mc,fid4,p2,left screen,post,left,beyonce,FF.csv,107.03599999999992,69
+mc,fid4,p2,left screen,pre,right,beyonce,FF.csv,77.57549999999998,106.5
+mc,fid4,p2,left side,post,left,beyonce,FF.csv,85.89800000000012,69
+mc,fid4,p2,left side,pre,right,beyonce,FF.csv,71.5090000000001,106.5
+mc,fid4,p2,plant,post,left,beyonce,FF.csv,34.589000000000084,69
+mc,fid4,p2,plant,pre,right,beyonce,FF.csv,22.37349999999997,106.5
+mc,fid4,p2,right screen,post,left,beyonce,FF.csv,25.093999999999966,69
+mc,fid4,p2,right screen,pre,right,beyonce,FF.csv,58.59600000000001,106.5
+mc,fid4,p2,right side,post,left,beyonce,FF.csv,35.11700000000002,69
+mc,fid4,p2,right side,pre,right,beyonce,FF.csv,51.30850000000001,106.5
+mc,fid4,p3,center,post,right,beyonce,FF.csv,1.8629999999999995,16
+mc,fid4,p3,center,pre,left,beyonce,FF.csv,20.685500000000033,102.5
+mc,fid4,p3,left screen,post,right,beyonce,FF.csv,258.81899999999996,16
+mc,fid4,p3,left screen,pre,left,beyonce,FF.csv,60.872,102.5
+mc,fid4,p3,left side,post,right,beyonce,FF.csv,21.094000000000012,16
+mc,fid4,p3,left side,pre,left,beyonce,FF.csv,63.18900000000009,102.5
+mc,fid4,p3,plant,post,right,beyonce,FF.csv,18.303,16
+mc,fid4,p3,plant,pre,left,beyonce,FF.csv,38.05249999999991,102.5
+mc,fid4,p3,right screen,pre,left,beyonce,FF.csv,50.182000000000016,102.5
+mc,fid4,p3,right side,pre,left,beyonce,FF.csv,66.3469999999999,102.5
+mc,fid5,p1,center,post,none,abigail,LL.csv,8.540000000000006,37
+mc,fid5,p1,center,pre,none,abigail,LL.csv,14.41199999999997,46.5
+mc,fid5,p1,left screen,post,none,abigail,LL.csv,9.60799999999999,37
+mc,fid5,p1,left screen,pre,none,abigail,LL.csv,24.97100000000001,46.5
+mc,fid5,p1,left side,post,none,abigail,LL.csv,18.420999999999992,37
+mc,fid5,p1,left side,pre,none,abigail,LL.csv,26.68149999999998,46.5
+mc,fid5,p1,plant,post,none,abigail,LL.csv,92.65699999999998,37
+mc,fid5,p1,plant,pre,none,abigail,LL.csv,45.244,46.5
+mc,fid5,p1,right screen,post,none,abigail,LL.csv,141.6919999999999,37
+mc,fid5,p1,right screen,pre,none,abigail,LL.csv,152.99,46.5
+mc,fid5,p1,right side,post,none,abigail,LL.csv,24.2740000000001,37
+mc,fid5,p1,right side,pre,none,abigail,LL.csv,36.38550000000004,46.5
+mc,fid5,p2,center,post,right,abigail,LL.csv,4.27,37
+mc,fid5,p2,center,pre,left,abigail,LL.csv,1.8664999999999985,23
+mc,fid5,p2,left screen,post,right,abigail,LL.csv,14.713000000000001,37
+mc,fid5,p2,left screen,pre,left,abigail,LL.csv,202.09050000000002,23
+mc,fid5,p2,left side,post,right,abigail,LL.csv,20.554000000000002,37
+mc,fid5,p2,left side,pre,left,abigail,LL.csv,28.700499999999952,23
+mc,fid5,p2,plant,post,right,abigail,LL.csv,36.017000000000024,39
+mc,fid5,p2,right screen,post,right,abigail,LL.csv,214.39500000000004,37
+mc,fid5,p2,right screen,pre,left,abigail,LL.csv,56.856,23
+mc,fid5,p2,right side,post,right,abigail,LL.csv,43.78599999999995,37
+mc,fid5,p2,right side,pre,left,abigail,LL.csv,2.808,23
+mc,fid5,p3,center,post,left,abigail,LL.csv,6.673000000000002,14
+mc,fid5,p3,center,pre,right,abigail,LL.csv,12.143000000000015,26
+mc,fid5,p3,left screen,pre,right,abigail,LL.csv,219.72299999999996,26
+mc,fid5,p3,left side,pre,right,abigail,LL.csv,13.34950000000003,26
+mc,fid5,p3,plant,post,left,abigail,LL.csv,10.948999999999984,14
+mc,fid5,p3,plant,pre,right,abigail,LL.csv,2.134999999999991,26
+mc,fid5,p3,right screen,post,left,abigail,LL.csv,270.418,14
+mc,fid5,p3,right screen,pre,right,abigail,LL.csv,32.033,26
+mc,fid5,p3,right side,post,left,abigail,LL.csv,10.945999999999987,14
+mc,fid5,p3,right side,pre,right,abigail,LL.csv,20.813000000000002,26
+mc,fid6,p1,center,post,none,beth,SS.csv,12.541999999999994,53
+mc,fid6,p1,left screen,post,none,beth,SS.csv,127.2299999999999,53
+mc,fid6,p1,left side,post,none,beth,SS.csv,46.44600000000007,53
+mc,fid6,p1,plant,post,none,beth,SS.csv,29.895000000000007,53
+mc,fid6,p1,right screen,post,none,beth,SS.csv,45.94999999999998,53
+mc,fid6,p1,right side,post,none,beth,SS.csv,38.97400000000004,53
+mc,fid6,p2,left screen,post,right,beth,SS.csv,286.81600000000003,16
+mc,fid6,p2,left side,post,right,beth,SS.csv,12.814000000000014,19
+mc,fid6,p3,left screen,post,left,beth,SS.csv,296.157,6
+mc,fid6,p3,left side,post,left,beth,SS.csv,4.271000000000072,7
+mc,fid7,p1,center,post,none,bella,SS.csv,4.808000000000021,27
+mc,fid7,p1,left screen,post,none,bella,SS.csv,49.542,27
+mc,fid7,p1,left side,post,none,bella,SS.csv,16.549000000000007,27
+mc,fid7,p1,plant,post,none,bella,SS.csv,19.218000000000018,27
+mc,fid7,p1,right screen,post,none,bella,SS.csv,191.25399999999996,27
+mc,fid7,p1,right side,post,none,bella,SS.csv,17.35300000000003,27
+mc,fid7,p2,center,post,right,bella,SS.csv,9.781000000000006,35
+mc,fid7,p2,left screen,post,right,bella,SS.csv,128.39600000000002,35
+mc,fid7,p2,left side,post,right,bella,SS.csv,65.66400000000002,35
+mc,fid7,p2,plant,post,right,bella,SS.csv,44.602999999999966,35
+mc,fid7,p2,right screen,post,right,bella,SS.csv,16.015999999999977,35
+mc,fid7,p2,right side,post,right,bella,SS.csv,34.32499999999996,35
+mc,fid7,p3,center,post,left,bella,SS.csv,6.138999999999982,40
+mc,fid7,p3,left screen,post,left,bella,SS.csv,213.79800000000003,40
+mc,fid7,p3,left side,post,left,bella,SS.csv,46.34499999999999,40
+mc,fid7,p3,plant,post,left,bella,SS.csv,19.484999999999985,40
+mc,fid7,p3,right screen,post,left,bella,SS.csv,3.203000000000003,40
+mc,fid7,p3,right side,post,left,bella,SS.csv,8.573000000000008,40
+mc,fid8,p1,center,post,none,blossom,INT.csv,42.726000000000084,43
+mc,fid8,p1,left screen,post,none,blossom,INT.csv,14.950000000000003,43
+mc,fid8,p1,left side,post,none,blossom,INT.csv,76.61199999999991,43
+mc,fid8,p1,plant,post,none,blossom,INT.csv,80.08100000000003,43
+mc,fid8,p1,right screen,post,none,blossom,INT.csv,9.873999999999988,43
+mc,fid8,p1,right side,post,none,blossom,INT.csv,67.07099999999994,43
+mc,fid8,p2,center,post,right,blossom,INT.csv,25.83700000000001,34
+mc,fid8,p2,left screen,post,right,blossom,INT.csv,115.84900000000007,34
+mc,fid8,p2,left side,post,right,blossom,INT.csv,68.33500000000005,34
+mc,fid8,p2,plant,post,right,blossom,INT.csv,56.59400000000001,34
+mc,fid8,p2,right screen,post,right,blossom,INT.csv,20.950999999999965,34
+mc,fid8,p2,right side,post,right,blossom,INT.csv,13.550999999999974,34
+mc,fid8,p3,right screen,post,left,blossom,INT.csv,298.432,1
+mc,fid8,p3,right side,post,left,blossom,INT.csv,1.2014999999999958,3
+mc,fid9,p1,center,post,none,catalina,LS.csv,44.475,29
+mc,fid9,p1,center,pre,none,catalina,LS.csv,18.369499999999938,53.5
+mc,fid9,p1,left screen,post,none,catalina,LS.csv,11.411999999999992,29
+mc,fid9,p1,left screen,pre,none,catalina,LS.csv,77.3395,53.5
+mc,fid9,p1,left side,post,none,catalina,LS.csv,24.293000000000042,29
+mc,fid9,p1,left side,pre,none,catalina,LS.csv,75.75900000000001,53.5
+mc,fid9,p1,plant,post,none,catalina,LS.csv,159.36100000000002,29
+mc,fid9,p1,plant,pre,none,catalina,LS.csv,46.72300000000003,53.5
+mc,fid9,p1,right screen,post,none,catalina,LS.csv,39.77499999999999,29
+mc,fid9,p1,right screen,pre,none,catalina,LS.csv,46.31649999999999,53.5
+mc,fid9,p1,right side,post,none,catalina,LS.csv,18.991999999999905,29
+mc,fid9,p1,right side,pre,none,catalina,LS.csv,33.87900000000003,53.5
+mc,fid9,p2,center,post,left,catalina,LS.csv,5.602,25
+mc,fid9,p2,center,pre,right,catalina,LS.csv,5.197500000000015,45
+mc,fid9,p2,left screen,post,left,catalina,LS.csv,5.0265,25.5
+mc,fid9,p2,left screen,pre,right,catalina,LS.csv,6.006499999999999,48
+mc,fid9,p2,left side,post,left,catalina,LS.csv,22.824,25
+mc,fid9,p2,left side,pre,right,catalina,LS.csv,19.490499999999997,48
+mc,fid9,p2,plant,post,left,catalina,LS.csv,169.507,25
+mc,fid9,p2,plant,pre,right,catalina,LS.csv,10.4145,48
+mc,fid9,p2,right screen,post,left,catalina,LS.csv,30.694999999999993,25
+mc,fid9,p2,right screen,pre,right,catalina,LS.csv,161.86650000000003,48
+mc,fid9,p2,right side,post,left,catalina,LS.csv,62.461000000000034,25
+mc,fid9,p2,right side,pre,right,catalina,LS.csv,98.51649999999992,48
+mc,fid9,p3,center,post,right,catalina,LS.csv,16.28,23
+mc,fid9,p3,center,pre,left,catalina,LS.csv,2.337500000000027,44.5
+mc,fid9,p3,left screen,post,right,catalina,LS.csv,97.137,23
+mc,fid9,p3,left screen,pre,left,catalina,LS.csv,35.357000000000006,44.5
+mc,fid9,p3,left side,post,right,catalina,LS.csv,8.009999999999991,23
+mc,fid9,p3,left side,pre,left,catalina,LS.csv,52.51999999999998,44.5
+mc,fid9,p3,plant,post,right,catalina,LS.csv,97.43299999999999,23
+mc,fid9,p3,plant,pre,left,catalina,LS.csv,180.18,44.5
+mc,fid9,p3,right screen,post,right,catalina,LS.csv,69.16900000000001,23
+mc,fid9,p3,right screen,pre,left,catalina,LS.csv,6.94100000000001,44.5
+mc,fid9,p3,right side,post,right,catalina,LS.csv,10.944999999999993,23
+mc,fid9,p3,right side,pre,left,catalina,LS.csv,19.996999999999986,44.5
