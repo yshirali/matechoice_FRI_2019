@@ -1,0 +1,25 @@
+---
+title: "matechoice_medians"
+author: "Yasmin Shirali"
+date: "6/29/2019"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+matechoice_data <- read_csv("~/matechoice_medians/matechoice_master_jun29_2019.csv")
+```
+
+
+
+```{r}
+matechoice_medians <- matechoice_data %>%
+  group_by(fishID, half, prePost, largeMalePosition, fishName, ) %>%
+  summarise_at(c("number_transits", "latency_plant", "latency_right_screen", "latency_left_screen", "center", "left screen", "left side", "plant", "right screen", "right side", "latency_plant_1", "latency_right_screen_1", "latency_left_screen_1", "trial duration"), median)
+matechoice_medians %>% head
+```
+
+write_csv(matechoice_medians, "matechoice_medians_master_jun29_2019_trialdur.csv")
